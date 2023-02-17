@@ -1,4 +1,9 @@
+## RL agent train to discriminate PCG for GAN
+
+In Previously project, one has tried to train RL agent to Mario environment. To classify which algorithm is outperform. In this project, one try more to generating level environment by Procedural Content Generation (PCG) with GAN.
+
 ## Reference paper
+- Rainbow: Combining Improvements in Deep Reinforcement Learning
 - Procedural Content Generation
 - Procedural Content Generation via Machine Learning PCGML
 - Evolving Mario Levels in the Latent Space of a Deep
